@@ -35,6 +35,8 @@ git branch divide
 3. 2 members will work on divide branch to implement view and javascript function. 
 4. Once a feature branch is completed by 2 members, they will create a pull request to make sure someone from the team reviews their code and merges this into the develop branch.
 
+Edited by Sam.
+
 
 
 
